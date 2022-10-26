@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Amr Abdalaziz Abdallah</h1>
-<h3 align="center">A Trainee at Information Technology Instituite (ITI) studying Open Source Application Development</h3>
+<h3 align="center">A graduate Engineer and An Information Technology Instituite (ITI) Open Source Application Development Track Alumnus</h3>
 
 - 📫 How to reach me **amr.abdalaziz.abdallah@gmail.com**
 
